@@ -1,2 +1,2 @@
 # visaoComputacional
-Repositório para estudos de visão com.putacional com a biblioteca opencv
+Repositório para estudos de visão computacional com a biblioteca opencv
